@@ -9,3 +9,5 @@ This sample code can help Power BI tenant admins identify most of the content ho
 Requirements:
 * Install [Power BI PowerShell modules](https://docs.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps)
 * User of the PS script has to provide Power BI tenant Admin credentials when prompted to login. Tenant Admin access scope is required. Users without tenant Admin privileges will not be able to successfully execute this script.
+
+**UPDATE**[12/2/22]: added "Scan for non-BYOK compliant content.ps1" file that contains updated guidance for not covedred by BYOK content detection and tenant scan automation based on most recent API additons.
